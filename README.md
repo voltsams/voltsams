@@ -4,8 +4,8 @@
 
 
 Languages and tools :
+html.png (288×288) ![css](https://user-images.githubusercontent.com/98024370/176318036-ca97354a-03f0-4314-b3f7-788c74b65310.png)
 
-https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png
 
 
 <!--
