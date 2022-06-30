@@ -1,9 +1,9 @@
 <h1 align="center">Hi, I'm Sami👋</h1>
 <h3 align="center">Looking for an apprenticeship contract</h3>
 
-🔭 I’m currently working on my **portfolio**
+<p>🔭 I’m currently working on my <b>portfolio</b></p>
 
-<h3 align="left">Languages and Tools:</h3>
+<h3 align="left">Languages and Tools :</h3>
 <p align="left">
   <a href="https://www.php.net" target="_blank" rel="noreferrer"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> 
@@ -34,14 +34,14 @@
   </a> 
 </p>
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">Connect with me :</h3>
 <p align="left">
 <a href="https://linkedin.com/in/sami-drach" target="blank">
   <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sami drach" height="30" width="40" />
   </a>
 </p>
 <hr>
-<h3 align="center">Good Viewing</h3>
+<h3 align="center">Enjoy</h3>
 <p align="center">
     <img align="center" src="https://giffiles.alphacoders.com/200/200613.gif"/>
 </p>
