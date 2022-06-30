@@ -1,7 +1,7 @@
 <h1 align="center">Hi, I'm Sami👋</h1>
 <h3 align="center">Looking for an apprenticeship contract</h3>
 
-- 🔭 I’m currently working on my **portfolio**
+🔭 I’m currently working on my **portfolio**
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
@@ -43,6 +43,6 @@
 <hr>
 <h3 align="center">Good Viewing</h3>
 <p align="center">
-    <img align="center" src="https://i.gifer.com/fetch/w300-preview/c5/c5b7e010b479007f2094e223653f0940.gif"/>
+    <img align="center" src="https://giffiles.alphacoders.com/200/200613.gif"/>
 </p>
 
