@@ -1,8 +1,8 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=voltsams&label=Profile%20views&color=ff7f00&style=flat" alt="voltsams" /> </p>
 <h1 align="center">Hi, I'm Sami👋</h1>
-<h3 align="center">Looking for an apprenticeship contract</h3>
+<h3 align="center">In an apprenticeship contract</h3>
 
-<p>🔭 I’m currently working on my <b>portfolio</b></p>
+<p>🔭 I’m currently working on <b>Flutter</b> and <b> React Native </b></p>
 
 <h3 align="left">Languages and Tools :</h3>
 <p align="left">
