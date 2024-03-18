@@ -2,7 +2,7 @@
 <h1 align="center">Hi, I'm Sami👋</h1>
 <h3 align="center">In an apprenticeship contract</h3>
 
-<p>🔭 I’m currently working on <b>Flutter</b> and <b> React Native </b></p>
+<p>🔭 I’m currently working on <b>Cobol</b> and <b> Java </b></p>
 
 <h3 align="left">Languages and Tools :</h3>
 <p align="left">
